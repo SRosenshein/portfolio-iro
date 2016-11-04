@@ -6,13 +6,13 @@ url: "http://srosenshein.github.io" # the base hostname & protocol for your site
 theme_settings:
   # Meta
   title: Samuel Rosenshein
-  avatar: avatar.png
+  avatar: face.png
   gravatar: # Email MD5 hash
   description: "Samuel Rosenshein's portfolio website showcasing projects and blog posts." # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Full-Stack Web Developer, Sports Lover, and Beer Enthusiast</h1>
+     <h2>Hi! My name is Sam and I'm a Full-Stack Web Developer that loves sports, beer, and my dog Zach.</h2>
      <small>Focus on React, Ruby on Rails, and AngularJS</small>
   header_text_feature_image:
   footer_text: >
