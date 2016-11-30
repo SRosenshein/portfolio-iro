@@ -12,7 +12,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h2>Hi! My name is Sam and I am a Junior Full-Stack Web Developer that loves sports and his dog Zach.</h2>
+     <h2>Hi! My name is Sam and I am a Junior Full-Stack Web Developer that loves sports and my dog Zach.</h2>
      <small>Focus on React, Ruby on Rails, and AngularJS</small>
   header_text_feature_image:
   footer_text: >
