@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 feature-img: "img/sample_feature_img_3.png"
 ---
-Send me a message saying hi!
+Send me a message saying hi! 
 
 <form action="https://getsimpleform.com/messages?form_api_token=dc07c2c82893ae840022bc956f88acb0" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
