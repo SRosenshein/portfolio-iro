@@ -12,3 +12,5 @@ Lets talk!
 Email: Srosenshein1@gmail.com
 
 LinkedIn: <http://linkedin.com/in/srosenshein>
+
+View all of my projects on [Github](https://github.com/srosenshein "Samuel Rosenshein Github")!
