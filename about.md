@@ -9,10 +9,8 @@ Welcome to my online portfolio/blog! This is where I will be showcasing my recen
 
 View [My Story](http://sam-rosenshein.com/2016/12/28/my-path.html "My Path Blog Post")
 
-Lets talk!
+#### Lets talk!
  
-Email: Srosenshein1@gmail.com
-
-LinkedIn: <http://linkedin.com/in/srosenshein>
-
-View all of my projects on [Github](https://github.com/srosenshein "Samuel Rosenshein Github")!
+* Email: Srosenshein1@gmail.com
+* LinkedIn: <http://linkedin.com/in/srosenshein>
+* View all of my projects on [Github](https://github.com/srosenshein "Samuel Rosenshein Github")!
