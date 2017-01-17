@@ -3,7 +3,7 @@ layout: post
 title: Bloctime
 feature-img: "img/sample_feature_img.png"
 thumbnail-path: "img/bloctime.PNG"
-short-description: Bloctime is a time management workflow app based on the Pomodoro Time Management Technique!
+short-description: The time management workflow app based on the Pomodoro Time Management Technique
 
 ---
 
