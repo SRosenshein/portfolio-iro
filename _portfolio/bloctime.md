@@ -17,7 +17,7 @@ Bloctime is a time management web app intended to promote workflow focus based o
 
 ## Features
 
-* Upon starting a new "work session", a 25-minute timer (formatted with moment.js) is initiated where the user is expected to complete a task and not have the ability to pause the timer.
+*	Upon starting a new "work session", a 25-minute timer (formatted with moment.js) is initiated where the user is expected to complete a task and not have the ability to pause the timer.
 	* Once the timer hits zero, an audible "ding" noise is played, signaling the user that the work session has ended.
 	* Following a "work session", a 5-minute "break session" is initiated. This is accomplished by passing the appropriate pathname to react router as seen in the following code:
 

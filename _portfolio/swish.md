@@ -21,3 +21,5 @@ The app is built upon a Ruby on Rails custom API backend with a React/Redux fron
 Swish currently only handles New York City basketball court data but will eventually be expanded to multiple cities.
 
 ![Swish App View](/img/swishPic.PNG)
+
+Swish is my current project and I intend to update this page as I progress further. My code will constantly be pushed up to Github.

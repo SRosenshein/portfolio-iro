@@ -12,8 +12,11 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h2>Hi! My name is Sam and I am a Junior Full-Stack Web Developer that loves sports and my dog Zach.</h2>
-     <small>Focus on React/Redux, Ruby on Rails, and Angular</small>
+    <h2>Hi! My name is Sam and I am a Junior Full-Stack Web Developer that loves sports and my dog Zach.</h2>
+    <small>
+      <p>Focus on React/Redux, Ruby on Rails, and Angular</p>
+      <p>View all of my projects on <a href="http://github.com/srosenshein"><strong>Github</strong></a>!</p>
+    </small>
   header_text_feature_image: 
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
