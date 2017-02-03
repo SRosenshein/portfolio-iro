@@ -10,7 +10,7 @@ App live at: *This app is currently under development and has not been deployed 
 
 Backend Code: <https://github.com/srosenshein/Swish-API>
 
-Frontend Code: <https://github.com/srosenshein/Swish>
+Frontend Code: <https://github.com/srosenshein/Swish-Client>
 
 # Summary
 
